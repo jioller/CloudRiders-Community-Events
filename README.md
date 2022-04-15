@@ -1,4 +1,6 @@
-# Events-
+# EVENTS:
+# #######
+
 # This is the main event repository for my community and other collabs:
 # #####################################################################
 
@@ -10,4 +12,5 @@ Please, if you are collaborating with us in an event, we ask you to take into ac
 3rd) Stay open to different points of view.
 4th) Make all your presentations accessible to people with special needs.
 
-Whenever you have doubts, contact me for help: jioller@live.com
+Whenever you have doubts, contact me for help: 
+# jioller@live.com
